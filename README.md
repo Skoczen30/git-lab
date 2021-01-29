@@ -4,4 +4,3 @@ ks640819@ohio.edu
 I recorded my answers in answers.md
 CS 2400 Section 105
 git commit
-git push
